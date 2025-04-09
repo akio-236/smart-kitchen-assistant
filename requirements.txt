@@ -1,0 +1,9 @@
+streamlit==1.25.0
+opencv-python==4.7.0.72
+mediapipe==0.10.13
+SpeechRecognition==3.10.0
+gTTS==2.3.2
+python-dotenv==1.0.0
+numpy==1.23.5  
+sounddevice==0.4.6  
+soundfile==0.12.1  
